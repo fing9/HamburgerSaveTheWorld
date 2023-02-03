@@ -1,0 +1,15 @@
+
+
+div.wrap-hamburger div{
+    width: 200px;
+    height: 100px;
+    border-radius: 50%;
+    background:#a47516;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+div.sentence {
+    margin: 50px auto;
+}
